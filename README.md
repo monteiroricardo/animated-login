@@ -1,9 +1,8 @@
-<style>
-    .container{
-      align-items:center;
-    }
-        .esquerda{
-            float: left;
+
+
+<body>
+  <div class="container" style = "align-items:center;">  <h1>
+        <div class="esquerda" style="  float: left;
             height: 100px;
             text-align: center;
             margin:auto;
@@ -11,20 +10,11 @@
             flex-wrap: wrap;
             justify-content: center;
             flex-direction: column;
-            text-align: center;
-        }
-        .direita{
-               float:right;
-               height: 100px;
-        }
-</style>
-
-<body>
-  <div class="container">  <h1>
-        <div class="esquerda">
+            text-align: center;">
         ANIMATED LOGIN
         </div>
-    <div class="direita">
+    <div class="direita", style=" float:right;
+               height: 100px;">
    <img alt="Logo" title="#myflutterproject" src="github/logo.svg" />
   </div>
         <div style="clear:both;"></div>
@@ -44,9 +34,6 @@
 <p align="center">
 
   <img  src="github/project-animateLogin.gif">
-
-
-
 </p>
 
 Tecnologias
