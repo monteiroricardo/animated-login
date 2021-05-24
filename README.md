@@ -1,8 +1,9 @@
 
 
 <body>
-  <div class="container" style = "align-items:center;">  <h1>
-        <div class="esquerda" style="  float: left;
+  <div  style = "align-items:center;"> 
+	  <h1>
+        <div style="float: left;
             height: 100px;
             text-align: center;
             margin:auto;
@@ -13,7 +14,7 @@
             text-align: center;">
         ANIMATED LOGIN
         </div>
-    <div class="direita", style=" float:right;
+    <div style=" float:right;
                height: 100px;">
    <img alt="Logo" title="#myflutterproject" src="github/logo.svg" />
   </div>
